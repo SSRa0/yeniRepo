@@ -3,6 +3,9 @@ public class Class01 {
 
         //V1 calismalarim...
         //v2 uzerine calismlar
+        System.out.println("v3 kodlari ");//v3
+
+
 
 
     }
