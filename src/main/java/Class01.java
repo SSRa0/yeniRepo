@@ -6,6 +6,8 @@ public class Class01 {
         System.out.println("v3 kodlari ");//v3
 
         // v4 kisa yoldan commit
+        // v5 kisa yoldan commit
+        // v6 kodlari...
 
 
 
